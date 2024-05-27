@@ -7,7 +7,7 @@ let config = {
     //pointTaille : 0.03,   // facteur d'échelle du point d'intérêt
 };
 
-import { vamoInit } from '../vamo/js/vamo.js';
+import { vamoInit } from 'vamo/js/vamo.js';
 // import { vamoInit } from 'https://www.invisu.ca/vamo/vamo/js/vamo.js';
 
 function init( paramsFichier )
