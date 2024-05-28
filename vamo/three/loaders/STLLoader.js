@@ -245,3 +245,5 @@ _checkSize: function (neededBits) {
   }
 }
 };
+
+export{STLLoader};
